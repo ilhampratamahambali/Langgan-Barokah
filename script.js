@@ -8,7 +8,7 @@ const getFallbackImg = (teks) =>
 const paketSembako = [
   {
     id: "PKT-A",
-    nama: "Paket Sembako SUPER Rp. 7.500 Sehari/300 Hari",
+    nama: "Paket Sembako SUPER Rp. 7.500 Sehari/330 Hari",
     img: "Img/Super.png",
     isi: [
     "Tersedia Paket Sembako Super A, B, C, D, dan E untuk kebutuhan Lebaran dan Hari Raya",
